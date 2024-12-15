@@ -1,0 +1,1594 @@
+[
+  {
+    "uuid": "0xeD42CeDcADbFbCAA3E6F411B09567C2C0b5AD28F",
+    "startPrice": "57000",
+    "startDate": "20210111",
+    "actualPrice": "65000",
+    "actualDate": "20210622",
+    "alpha": 14.035087719298245
+  },
+  {
+    "uuid": "0x395c47a421c254ae42253764a7f56e0ee0cddac5",
+    "startPrice": "63000",
+    "startDate": "20210111",
+    "actualPrice": "71000",
+    "actualDate": "20210602",
+    "alpha": 12.698412698412698
+  },
+  {
+    "uuid": "0x43688910273f199B8AE2cA018c13918fb3D37B58",
+    "startPrice": "53000",
+    "startDate": "20210111",
+    "actualPrice": "61000",
+    "actualDate": "20210602",
+    "alpha": 15.09433962264151
+  },
+  {
+    "uuid": "0x22c8ecf727c23422f47093b562ec53c139805301",
+    "startPrice": "550000",
+    "startDate": "20210111",
+    "actualPrice": "705527",
+    "actualDate": "20220615",
+    "alpha": 28.277636363636365
+  },
+  {
+    "uuid": "0x5807CA447851C98569c567963B25B1C83D41BeBc",
+    "startPrice": "519000",
+    "startDate": "20210118",
+    "actualPrice": "694248",
+    "actualDate": "20220502",
+    "alpha": 33.7664739884393
+  },
+  {
+    "uuid": "0x6Fd016CCc4611F7BAB1DD3267334cB0216Ef47f9",
+    "startPrice": "180000",
+    "startDate": "20210111",
+    "actualPrice": "205000",
+    "actualDate": "20210602",
+    "alpha": 13.88888888888889
+  },
+  {
+    "uuid": "0xfC89f1b932079b462Ef9C8757dE5A28E387b847b",
+    "startPrice": "65000",
+    "startDate": "20210111",
+    "actualPrice": "75000",
+    "actualDate": "20210602",
+    "alpha": 15.384615384615385
+  },
+  {
+    "uuid": "0x74d2cb65B1158300c3e6BeA149d68509C7B2425d",
+    "startPrice": "66000",
+    "startDate": "20210111",
+    "actualPrice": "84000",
+    "actualDate": "20210602",
+    "alpha": 27.27272727272727
+  },
+  {
+    "uuid": "0xbecaea7aa3629d4b7ddccf3a973bef09ff34d4b6",
+    "startPrice": "52000",
+    "startDate": "20210111",
+    "actualPrice": "61000",
+    "actualDate": "20210602",
+    "alpha": 17.307692307692307
+  },
+  {
+    "uuid": "0x22cabb38295eaeccfede4e99af508052e3b74ca0",
+    "startPrice": "50000",
+    "startDate": "20210111",
+    "actualPrice": "58000",
+    "actualDate": "20210602",
+    "alpha": 16.0
+  },
+  {
+    "uuid": "0xE9eace1313913888C364D8504ffC3b8d991C67C6",
+    "startPrice": "155000",
+    "startDate": "20210117",
+    "actualPrice": "325000",
+    "actualDate": "20220228",
+    "alpha": 109.6774193548387
+  },
+  {
+    "uuid": "0x67f2014293D641468161bbB0E6bD088Fc0B8c381",
+    "startPrice": "56500",
+    "startDate": "20210111",
+    "actualPrice": "65000",
+    "actualDate": "20210602",
+    "alpha": 15.04424778761062
+  },
+  {
+    "uuid": "0xbff3a3d79d0f9165cfcc1b369ee41f3c5c9ae398",
+    "startPrice": "55000",
+    "startDate": "20210111",
+    "actualPrice": "75000",
+    "actualDate": "20220110",
+    "alpha": 36.36363636363637
+  },
+  {
+    "uuid": "0xc1af55156B64DA1D484fb13b1aFdb1da8Efa7733",
+    "startPrice": "61000",
+    "startDate": "20210111",
+    "actualPrice": "73000",
+    "actualDate": "20211209",
+    "alpha": 19.672131147540984
+  },
+  {
+    "uuid": "0xac1682ad8893ed96e7ec3379f3a212dc50f06d23",
+    "startPrice": "58000",
+    "startDate": "20210122",
+    "actualPrice": "68000",
+    "actualDate": "20210602",
+    "alpha": 17.24137931034483
+  },
+  {
+    "uuid": "0xfd510a3c53666035900ceb4d4743bd869d98d57a",
+    "startPrice": "65000",
+    "startDate": "20210111",
+    "actualPrice": "79000",
+    "actualDate": "20211209",
+    "alpha": 21.53846153846154
+  },
+  {
+    "uuid": "0xd4203d4f0f2c3ae21ce93f04ab00517262f65aa9",
+    "startPrice": "54500",
+    "startDate": "20210111",
+    "actualPrice": "65000",
+    "actualDate": "20210602",
+    "alpha": 19.26605504587156
+  },
+  {
+    "uuid": "0xa9E8A9d9729e766A72763253f2aFd1b1cF9053a0",
+    "startPrice": "62500",
+    "startDate": "20210111",
+    "actualPrice": "73000",
+    "actualDate": "20210602",
+    "alpha": 16.8
+  },
+  {
+    "uuid": "0x53993d04758Ee89BBE190E15A81C411688543AbA",
+    "startPrice": "57000",
+    "startDate": "20210111",
+    "actualPrice": "67000",
+    "actualDate": "20210602",
+    "alpha": 17.543859649122805
+  },
+  {
+    "uuid": "0x273A160eb5Df613c8c99869f5ae4941f65bf94cb",
+    "startPrice": "61000",
+    "startDate": "20210111",
+    "actualPrice": "75000",
+    "actualDate": "20211209",
+    "alpha": 22.950819672131146
+  },
+  {
+    "uuid": "0xec2d495f20adf65cd26e9e250c8cd5d863609afd",
+    "startPrice": "56000",
+    "startDate": "20210111",
+    "actualPrice": "65000",
+    "actualDate": "20210602",
+    "alpha": 16.071428571428573
+  },
+  {
+    "uuid": "0x033B186321fA88603E3ecc98821FB0932B2c0760",
+    "startPrice": "61000",
+    "startDate": "20210111",
+    "actualPrice": "70000",
+    "actualDate": "20220228",
+    "alpha": 14.754098360655737
+  },
+  {
+    "uuid": "0x87645f94f6EA37f9f2f56d4521315E9C1ed89aa4",
+    "startPrice": "61000",
+    "startDate": "20210111",
+    "actualPrice": "69000",
+    "actualDate": "20220228",
+    "alpha": 13.114754098360656
+  },
+  {
+    "uuid": "0x4475Ad655d6FA73Db81CC52a5Cf4585fAa34A1Dd",
+    "startPrice": "51000",
+    "startDate": "20210111",
+    "actualPrice": "59000",
+    "actualDate": "20220110",
+    "alpha": 15.686274509803921
+  },
+  {
+    "uuid": "0x2830209f6573F10c481D946Ba18B446429F30360",
+    "startPrice": "57000",
+    "startDate": "20210111",
+    "actualPrice": "68000",
+    "actualDate": "20220110",
+    "alpha": 19.298245614035086
+  },
+  {
+    "uuid": "0xec069eaa5c83763f288106506fecbd5dbe74d047",
+    "startPrice": "62000",
+    "startDate": "20210111",
+    "actualPrice": "74000",
+    "actualDate": "20210602",
+    "alpha": 19.35483870967742
+  },
+  {
+    "uuid": "0xC4CB613947890EA300FEDc509AC19f8efa0cDd14",
+    "startPrice": "60000",
+    "startDate": "20210111",
+    "actualPrice": "69000",
+    "actualDate": "20210602",
+    "alpha": 15.0
+  },
+  {
+    "uuid": "0x1105c20aC6F4DE989fAF05d17ab3f950963B75Ad",
+    "startPrice": "62000",
+    "startDate": "20210111",
+    "actualPrice": "79000",
+    "actualDate": "20220110",
+    "alpha": 27.419354838709676
+  },
+  {
+    "uuid": "0x438f9De51f51692A4B83696413062a040cC5cBD5",
+    "startPrice": "52000",
+    "startDate": "20210111",
+    "actualPrice": "65000",
+    "actualDate": "20220104",
+    "alpha": 25.0
+  },
+  {
+    "uuid": "0x434E3a92C43a98fF508ab44E023ea7638952Ad21",
+    "startPrice": "83000",
+    "startDate": "20210111",
+    "actualPrice": "105300",
+    "actualDate": "20220219",
+    "alpha": 26.867469879518076
+  },
+  {
+    "uuid": "0xba0d050BBB662c190Bf99C61708B42Ff9d8750e0",
+    "startPrice": "57000",
+    "startDate": "20210111",
+    "actualPrice": "68000",
+    "actualDate": "20220120",
+    "alpha": 19.298245614035086
+  },
+  {
+    "uuid": "0x419f97e6dcfBf89A70EA898b7F44472F75bF6137",
+    "startPrice": "50000",
+    "startDate": "20210117",
+    "actualPrice": "59000",
+    "actualDate": "20220110",
+    "alpha": 18.0
+  },
+  {
+    "uuid": "0xFe17C3C0B6F38cF3bD8bA872bEE7a18Ab16b43fB",
+    "startPrice": "50000",
+    "startDate": "20210111",
+    "actualPrice": "61000",
+    "actualDate": "20220104",
+    "alpha": 22.0
+  },
+  {
+    "uuid": "0x41599149f1B52035392402F9e311b1edb0C9f699",
+    "startPrice": "53000",
+    "startDate": "20210111",
+    "actualPrice": "63000",
+    "actualDate": "20220120",
+    "alpha": 18.867924528301888
+  },
+  {
+    "uuid": "0x315699f1BA88383CFF2F2f30FcaD187aDb2E4D72",
+    "startPrice": "53000",
+    "startDate": "20210111",
+    "actualPrice": "63500",
+    "actualDate": "20220110",
+    "alpha": 19.81132075471698
+  },
+  {
+    "uuid": "0x6F442Da588232DC57Bf0096E8dE48D6961D5CC83",
+    "startPrice": "57000",
+    "startDate": "20210111",
+    "actualPrice": "68500",
+    "actualDate": "20220120",
+    "alpha": 20.175438596491226
+  },
+  {
+    "uuid": "0x96700Ffae33c651bC329c3f3fbFE56e1f291f117",
+    "startPrice": "54000",
+    "startDate": "20210111",
+    "actualPrice": "63000",
+    "actualDate": "20220120",
+    "alpha": 16.666666666666664
+  },
+  {
+    "uuid": "0x499A6c19F5537dd6005E2B5c6E1263103f558Ba4",
+    "startPrice": "52000",
+    "startDate": "20210111",
+    "actualPrice": "60000",
+    "actualDate": "20220120",
+    "alpha": 15.384615384615385
+  },
+  {
+    "uuid": "0xB3D3C1bBcEf737204AADb4fA6D90e974bc262197",
+    "startPrice": "53000",
+    "startDate": "20210111",
+    "actualPrice": "62000",
+    "actualDate": "20220104",
+    "alpha": 16.9811320754717
+  },
+  {
+    "uuid": "0x73BdE888664DF8DDfD156B52e6999EEaBAB57C94",
+    "startPrice": "50000",
+    "startDate": "20210111",
+    "actualPrice": "59000",
+    "actualDate": "20220219",
+    "alpha": 18.0
+  },
+  {
+    "uuid": "0x830B0e9a5ecf36D0A886D21e1C20043cD2d16515",
+    "startPrice": "52000",
+    "startDate": "20210111",
+    "actualPrice": "61000",
+    "actualDate": "20220120",
+    "alpha": 17.307692307692307
+  },
+  {
+    "uuid": "0x4Cc53Ee5ef306a95d407321d4B4acc30814C04ee",
+    "startPrice": "54000",
+    "startDate": "20210111",
+    "actualPrice": "66000",
+    "actualDate": "20220110",
+    "alpha": 22.22222222222222
+  },
+  {
+    "uuid": "0xd9e89bFebAe447B42C1Fa85C590716eC8820f737",
+    "startPrice": "72000",
+    "startDate": "20210111",
+    "actualPrice": "125600",
+    "actualDate": "20220217",
+    "alpha": 74.44444444444444
+  },
+  {
+    "uuid": "0xeFe82D6baF0dB71f92889eB9d00721bD49121316",
+    "startPrice": "50000",
+    "startDate": "20210111",
+    "actualPrice": "59000",
+    "actualDate": "20220120",
+    "alpha": 18.0
+  },
+  {
+    "uuid": "0x8a9F904B4EaD6a97F3aB304d0D2196f5c602c807",
+    "startPrice": "52000",
+    "startDate": "20210111",
+    "actualPrice": "61000",
+    "actualDate": "20220110",
+    "alpha": 17.307692307692307
+  },
+  {
+    "uuid": "0x7E95b310724334FF74537dc08bfD3377d25E65Ce",
+    "startPrice": "51000",
+    "startDate": "20210111",
+    "actualPrice": "61000",
+    "actualDate": "20220104",
+    "alpha": 19.607843137254903
+  },
+  {
+    "uuid": "0x75f06B482adbFb04b877D8ee683E2FCDf18AD153",
+    "startPrice": "51000",
+    "startDate": "20210111",
+    "actualPrice": "63000",
+    "actualDate": "20220120",
+    "alpha": 23.52941176470588
+  },
+  {
+    "uuid": "0x3150f0EbC0eFEe280b5348b9C8C271AD44Eb8B13",
+    "startPrice": "53000",
+    "startDate": "20210119",
+    "actualPrice": "64000",
+    "actualDate": "20220905",
+    "alpha": 20.754716981132077
+  },
+  {
+    "uuid": "0x175cbD54d38F58B530785e01471a2Ec0D4596EB5",
+    "startPrice": "58000",
+    "startDate": "20210116",
+    "actualPrice": "71000",
+    "actualDate": "20220304",
+    "alpha": 22.413793103448278
+  },
+  {
+    "uuid": "0xce111a198eB04F388AceB78c40ceD6daF1b0514a",
+    "startPrice": "155000",
+    "startDate": "20210117",
+    "actualPrice": "325000",
+    "actualDate": "20220228",
+    "alpha": 109.6774193548387
+  },
+  {
+    "uuid": "0x34eD9e71449529E034d0326cfBB3b5ccDCa00CBC",
+    "startPrice": "50000",
+    "startDate": "20210117",
+    "actualPrice": "59000",
+    "actualDate": "20220110",
+    "alpha": 18.0
+  },
+  {
+    "uuid": "0xB5D30c28F87acf675Ed5B9f343E5ffF39eC9942C",
+    "startPrice": "519000",
+    "startDate": "20210118",
+    "actualPrice": "694248",
+    "actualDate": "20220502",
+    "alpha": 33.7664739884393
+  },
+  {
+    "uuid": "0x4E98493920b16Dd6642e9D48497c8d0A49150f6F",
+    "startPrice": "51000",
+    "startDate": "20210111",
+    "actualPrice": "59000",
+    "actualDate": "20220110",
+    "alpha": 15.686274509803921
+  },
+  {
+    "uuid": "0x9A99f283e1F6c3b7F24901995624Ef7b78E94471",
+    "startPrice": "59000",
+    "startDate": "20210120",
+    "actualPrice": "69000",
+    "actualDate": "20220228",
+    "alpha": 16.94915254237288
+  },
+  {
+    "uuid": "0x9FEF44FC4C571010BCCD5b63e1Cdc807D3b347bF",
+    "startPrice": "58000",
+    "startDate": "20210121",
+    "actualPrice": "66000",
+    "actualDate": "20220228",
+    "alpha": 13.793103448275861
+  },
+  {
+    "uuid": "0x9856C5CA15A4Ac9C65AAC090c38a9f39EB3b5eeC",
+    "startPrice": "58500",
+    "startDate": "20210121",
+    "actualPrice": "71000",
+    "actualDate": "20230615",
+    "alpha": 21.367521367521366
+  },
+  {
+    "uuid": "0xe3902E329Ef2D3FD7666022C139d75BCc984b7a5",
+    "startPrice": "56500",
+    "startDate": "20210111",
+    "actualPrice": "65000",
+    "actualDate": "20210602",
+    "alpha": 15.04424778761062
+  },
+  {
+    "uuid": "0x7f940B5509a22e81D29167581bdEea3Fa5a0abEE",
+    "startPrice": "52000",
+    "startDate": "20210111",
+    "actualPrice": "65000",
+    "actualDate": "20220104",
+    "alpha": 25.0
+  },
+  {
+    "uuid": "0xD08d2b199E9E5df407427d4085877d1fDFf3b1d6",
+    "startPrice": "57000",
+    "startDate": "20210111",
+    "actualPrice": "68000",
+    "actualDate": "20220110",
+    "alpha": 19.298245614035086
+  },
+  {
+    "uuid": "0x9F923653A19537b5a1b003854A1920fe67a8ffEB",
+    "startPrice": "83000",
+    "startDate": "20210111",
+    "actualPrice": "105300",
+    "actualDate": "20220219",
+    "alpha": 26.867469879518076
+  },
+  {
+    "uuid": "0x08Ad1F3a48Be1D23C723a6cC8486b247F5dE935a",
+    "startPrice": "57000",
+    "startDate": "20210111",
+    "actualPrice": "68000",
+    "actualDate": "20220120",
+    "alpha": 19.298245614035086
+  },
+  {
+    "uuid": "0xD1c15CEbfDcd16F00D91666bf64C8b66CbF5e9b5",
+    "startPrice": "54500",
+    "startDate": "20210111",
+    "actualPrice": "65000",
+    "actualDate": "20210602",
+    "alpha": 19.26605504587156
+  },
+  {
+    "uuid": "0x8626B38267e4FC0D8C92E0bB86F97Acab3f6AA05",
+    "startPrice": "60000",
+    "startDate": "20210111",
+    "actualPrice": "69000",
+    "actualDate": "20210602",
+    "alpha": 15.0
+  },
+  {
+    "uuid": "0x76dbEb740ecd1F3b052a9AFA302ABc7EB4Fb5390",
+    "startPrice": "62000",
+    "startDate": "20210111",
+    "actualPrice": "74000",
+    "actualDate": "20210602",
+    "alpha": 19.35483870967742
+  },
+  {
+    "uuid": "0x46F8A600337dec5CaB03aa9b8F67f1D5B788ce28",
+    "startPrice": "55000",
+    "startDate": "20210111",
+    "actualPrice": "75000",
+    "actualDate": "20220110",
+    "alpha": 36.36363636363637
+  },
+  {
+    "uuid": "0xE5Ce63AC9a08c1EB160889151cD84855F16C94d2",
+    "startPrice": "57000",
+    "startDate": "20210111",
+    "actualPrice": "67000",
+    "actualDate": "20210602",
+    "alpha": 17.543859649122805
+  },
+  {
+    "uuid": "0x67a83B28F6dd8C07301495eE2C6f83b73FD21092",
+    "startPrice": "62500",
+    "startDate": "20210111",
+    "actualPrice": "73000",
+    "actualDate": "20210602",
+    "alpha": 16.8
+  },
+  {
+    "uuid": "0x3C56D5E887D8fA7AE1Ba65BF7eCCC25eC09EAF18",
+    "startPrice": "61000",
+    "startDate": "20210111",
+    "actualPrice": "73000",
+    "actualDate": "20211209",
+    "alpha": 19.672131147540984
+  },
+  {
+    "uuid": "0x537DC65657eD455d1c17E319FE6F4926d6033f2b",
+    "startPrice": "61000",
+    "startDate": "20210111",
+    "actualPrice": "69000",
+    "actualDate": "20220228",
+    "alpha": 13.114754098360656
+  },
+  {
+    "uuid": "0xF23B80216a10E6f0c0D3b5AD5C9349e9425cAd40",
+    "startPrice": "62000",
+    "startDate": "20210111",
+    "actualPrice": "79000",
+    "actualDate": "20220110",
+    "alpha": 27.419354838709676
+  },
+  {
+    "uuid": "0xa69D7d4DdF397f3D1E7EbAf108555d1107b3B117",
+    "startPrice": "65000",
+    "startDate": "20210111",
+    "actualPrice": "79000",
+    "actualDate": "20211209",
+    "alpha": 21.53846153846154
+  },
+  {
+    "uuid": "0x806690B7a093d2Cf6419a515ABEdb7f28595bc5E",
+    "startPrice": "61000",
+    "startDate": "20210111",
+    "actualPrice": "75000",
+    "actualDate": "20211209",
+    "alpha": 22.950819672131146
+  },
+  {
+    "uuid": "0xEe2f2212a64Ec3f6BC0F7580e10c53CB38B57508",
+    "startPrice": "61000",
+    "startDate": "20210111",
+    "actualPrice": "70000",
+    "actualDate": "20220228",
+    "alpha": 14.754098360655737
+  },
+  {
+    "uuid": "0x92161385C9dE8798ad5fB01c0bE99fFcbC84dFD8",
+    "startPrice": "58000",
+    "startDate": "20210122",
+    "actualPrice": "68000",
+    "actualDate": "20210602",
+    "alpha": 17.24137931034483
+  },
+  {
+    "uuid": "0x400B5716B0c23B6f1f0f2A5fDb038949962B803E",
+    "startPrice": "56000",
+    "startDate": "20210111",
+    "actualPrice": "65000",
+    "actualDate": "20210602",
+    "alpha": 16.071428571428573
+  },
+  {
+    "uuid": "0x21f1aF3e751317a2F7De7Df31D5d092E6A907Bde",
+    "startPrice": "65000",
+    "startDate": "20210111",
+    "actualPrice": "75000",
+    "actualDate": "20210602",
+    "alpha": 15.384615384615385
+  },
+  {
+    "uuid": "0x9Eb90Ec3FAafC22092C9b91559FdDde538042093",
+    "startPrice": "50000",
+    "startDate": "20210111",
+    "actualPrice": "58000",
+    "actualDate": "20210602",
+    "alpha": 16.0
+  },
+  {
+    "uuid": "0xF18CfFB528eca0ea31D1d6b28BC80d2eca34D14D",
+    "startPrice": "66000",
+    "startDate": "20210111",
+    "actualPrice": "84000",
+    "actualDate": "20210602",
+    "alpha": 27.27272727272727
+  },
+  {
+    "uuid": "0x6Db6d540F5614e6BaB7475Af3F430F46a0B083e2",
+    "startPrice": "53000",
+    "startDate": "20210111",
+    "actualPrice": "61000",
+    "actualDate": "20210602",
+    "alpha": 15.09433962264151
+  },
+  {
+    "uuid": "0x741857c07b100c9C0C1272D95845dDdc4f1b67cB",
+    "startPrice": "180000",
+    "startDate": "20210111",
+    "actualPrice": "205000",
+    "actualDate": "20210602",
+    "alpha": 13.88888888888889
+  },
+  {
+    "uuid": "0x23684569c0636C9aEa246551879d457D0a0E6F58",
+    "startPrice": "57000",
+    "startDate": "20210111",
+    "actualPrice": "65000",
+    "actualDate": "20210622",
+    "alpha": 14.035087719298245
+  },
+  {
+    "uuid": "0xEeDc2F5F4D1226759B1AcF9EfA23a99661De6663",
+    "startPrice": "63000",
+    "startDate": "20210111",
+    "actualPrice": "71000",
+    "actualDate": "20210602",
+    "alpha": 12.698412698412698
+  },
+  {
+    "uuid": "0xa81F77E8988b28fB74243B907acE3c83353Dc80a",
+    "startPrice": "52000",
+    "startDate": "20210111",
+    "actualPrice": "61000",
+    "actualDate": "20210602",
+    "alpha": 17.307692307692307
+  },
+  {
+    "uuid": "0x021Bb23a45e9FC824260435e670fC383b7b8cbbB",
+    "startPrice": "550000",
+    "startDate": "20210111",
+    "actualPrice": "705527",
+    "actualDate": "20220615",
+    "alpha": 28.277636363636365
+  },
+  {
+    "uuid": "0x280e9ed3B20c580a2f4219657bB9332D80Bc01f1",
+    "startPrice": "53000",
+    "startDate": "20210205",
+    "actualPrice": "67000",
+    "actualDate": "20220611",
+    "alpha": 26.41509433962264
+  },
+  {
+    "uuid": "0x33722EA778dF197f1b7B1Cf0b124d7A962181d65",
+    "startPrice": "52000",
+    "startDate": "20210205",
+    "actualPrice": "67000",
+    "actualDate": "20220611",
+    "alpha": 28.846153846153843
+  },
+  {
+    "uuid": "0x750FA12Ae51d1515c893C1aaABE2C135937a2c8B",
+    "startPrice": "51000",
+    "startDate": "20210205",
+    "actualPrice": "66000",
+    "actualDate": "20220611",
+    "alpha": 29.411764705882355
+  },
+  {
+    "uuid": "0x4d0dA4E75d40Bd7D9C4f7A292BF883BcDf38c45D",
+    "startPrice": "51000",
+    "startDate": "20210217",
+    "actualPrice": "64000",
+    "actualDate": "20220611",
+    "alpha": 25.49019607843137
+  },
+  {
+    "uuid": "0x9528a7402C0Fe85B817aa6E106EAFa03A02924c4",
+    "startPrice": "50000",
+    "startDate": "20210217",
+    "actualPrice": "67000",
+    "actualDate": "20220611",
+    "alpha": 34.0
+  },
+  {
+    "uuid": "0xdA47bD33e8f5d17Bb81b8752784bfb46C1c44B2A",
+    "startPrice": "53000",
+    "startDate": "20210315",
+    "actualPrice": "64000",
+    "actualDate": "20220611",
+    "alpha": 20.754716981132077
+  },
+  {
+    "uuid": "0xb5DD2b6E0A0422e069E1D2CC3Ed16533488a05e3",
+    "startPrice": "53500",
+    "startDate": "20210318",
+    "actualPrice": "64000",
+    "actualDate": "20220615",
+    "alpha": 19.626168224299064
+  },
+  {
+    "uuid": "0x92d31E19F88597F368825ba16410f263a844527A",
+    "startPrice": "54000",
+    "startDate": "20210319",
+    "actualPrice": "64000",
+    "actualDate": "20220618",
+    "alpha": 18.51851851851852
+  },
+  {
+    "uuid": "0x24293ab20159cfc0f3D7C8727CD827fbA63d4F64",
+    "startPrice": "54500",
+    "startDate": "20210318",
+    "actualPrice": "66000",
+    "actualDate": "20220618",
+    "alpha": 21.100917431192663
+  },
+  {
+    "uuid": "0x5E2a09064B2DCa8c44aaD8A5b69a69Bb1854fE72",
+    "startPrice": "52500",
+    "startDate": "20210318",
+    "actualPrice": "66000",
+    "actualDate": "20220624",
+    "alpha": 25.71428571428571
+  },
+  {
+    "uuid": "0xA9F30C907321718e655B74463CA665B690B78894",
+    "startPrice": "50500",
+    "startDate": "20210318",
+    "actualPrice": "64000",
+    "actualDate": "20230615",
+    "alpha": 26.732673267326735
+  },
+  {
+    "uuid": "0xb8403b7730368942a5BFe5aaC04a31B44015b1cc",
+    "startPrice": "50000",
+    "startDate": "20210325",
+    "actualPrice": "61000",
+    "actualDate": "20220611",
+    "alpha": 22.0
+  },
+  {
+    "uuid": "0x43fED9F9BF7DeedCb314b432a8e38219dd62CE9e",
+    "startPrice": "51500",
+    "startDate": "20210325",
+    "actualPrice": "62000",
+    "actualDate": "20220611",
+    "alpha": 20.388349514563107
+  },
+  {
+    "uuid": "0xff1B4D71Ae12538d86777A954b136cF723fCcEFD",
+    "startPrice": "53000",
+    "startDate": "20210325",
+    "actualPrice": "64000",
+    "actualDate": "20220817",
+    "alpha": 20.754716981132077
+  },
+  {
+    "uuid": "0x31AA5fA895Fd186fDE12347A6fCaf540875b6434",
+    "startPrice": "53500",
+    "startDate": "20210325",
+    "actualPrice": "66000",
+    "actualDate": "20220618",
+    "alpha": 23.364485981308412
+  },
+  {
+    "uuid": "0xBA07997F594A52DF179620284B52B50A4E66227D",
+    "startPrice": "51000",
+    "startDate": "20210325",
+    "actualPrice": "62000",
+    "actualDate": "20220618",
+    "alpha": 21.568627450980394
+  },
+  {
+    "uuid": "0xb09850e2B93aa3AAa1476bF0c007cfc960E2de79",
+    "startPrice": "53000",
+    "startDate": "20210325",
+    "actualPrice": "64000",
+    "actualDate": "20220611",
+    "alpha": 20.754716981132077
+  },
+  {
+    "uuid": "0x1E001730A23c7EBaFF35BC8bc90DA5a9b20804A4",
+    "startPrice": "55500",
+    "startDate": "20210410",
+    "actualPrice": "68000",
+    "actualDate": "20220817",
+    "alpha": 22.52252252252252
+  },
+  {
+    "uuid": "0x9b5B4886033B4ABc5Eb0552ffF7c15A67C3c47C7",
+    "startPrice": "63000",
+    "startDate": "20210410",
+    "actualPrice": "76000",
+    "actualDate": "20220817",
+    "alpha": 20.634920634920633
+  },
+  {
+    "uuid": "0xD5d1adf54Fbf73a00b197DdCfDAD7cc27D93002f",
+    "startPrice": "53000",
+    "startDate": "20210410",
+    "actualPrice": "64000",
+    "actualDate": "20220817",
+    "alpha": 20.754716981132077
+  },
+  {
+    "uuid": "0xa2b2ae397492C7ed8A4c1e751aC72D2b59947E6b",
+    "startPrice": "56000",
+    "startDate": "20210410",
+    "actualPrice": "68000",
+    "actualDate": "20220817",
+    "alpha": 21.428571428571427
+  },
+  {
+    "uuid": "0x4a99cc509f7FaCF58D7B67E99236dB5e0921ef81",
+    "startPrice": "56000",
+    "startDate": "20210418",
+    "actualPrice": "69000",
+    "actualDate": "20220817",
+    "alpha": 23.214285714285715
+  },
+  {
+    "uuid": "0x5600e25b4f24c63Afa655C3bd96E3C178B654Fa1",
+    "startPrice": "53500",
+    "startDate": "20210416",
+    "actualPrice": "66000",
+    "actualDate": "20220817",
+    "alpha": 23.364485981308412
+  },
+  {
+    "uuid": "0x2adc1cfA726A45264A328D9d2e2C692ceac97458",
+    "startPrice": "52500",
+    "startDate": "20210416",
+    "actualPrice": "63000",
+    "actualDate": "20220817",
+    "alpha": 20.0
+  },
+  {
+    "uuid": "0xaD91999F534F4075B00bA4231C018e57bdeBb342",
+    "startPrice": "53500",
+    "startDate": "20210416",
+    "actualPrice": "65000",
+    "actualDate": "20220817",
+    "alpha": 21.49532710280374
+  },
+  {
+    "uuid": "0x211618Fa0934910666f2C2731101F5A3aC013fD8",
+    "startPrice": "54000",
+    "startDate": "20210416",
+    "actualPrice": "66500",
+    "actualDate": "20221015",
+    "alpha": 23.14814814814815
+  },
+  {
+    "uuid": "0x31820af2d43c08BD82Bd94B08974062482bD98D3",
+    "startPrice": "58500",
+    "startDate": "20210425",
+    "actualPrice": "69000",
+    "actualDate": "20221015",
+    "alpha": 17.94871794871795
+  },
+  {
+    "uuid": "0x8D1090dF790FFAFdACCda03015c05dF3b4cC9c21",
+    "startPrice": "79500",
+    "startDate": "20210425",
+    "actualPrice": "93000",
+    "actualDate": "20221101",
+    "alpha": 16.9811320754717
+  },
+  {
+    "uuid": "0x1FdB4015fD5E031C5641752C1e03B973ad5eA168",
+    "startPrice": "57900",
+    "startDate": "20210425",
+    "actualPrice": "67000",
+    "actualDate": "20221015",
+    "alpha": 15.716753022452504
+  },
+  {
+    "uuid": "0x311FC485f1FeA0c8Cc9b5c783E79f4313DDFa720",
+    "startPrice": "46000",
+    "startDate": "20210525",
+    "actualPrice": "56000",
+    "actualDate": "20221015",
+    "alpha": 21.73913043478261
+  },
+  {
+    "uuid": "0x804f6baa10615c85e4b4a5bc4efe516d9f7a4365",
+    "startPrice": "45500",
+    "startDate": "20210528",
+    "actualPrice": "55000",
+    "actualDate": "20221015",
+    "alpha": 20.87912087912088
+  },
+  {
+    "uuid": "0x969d42ad7008e6651e1fd52742153f8743225d98",
+    "startPrice": "48700",
+    "startDate": "20210528",
+    "actualPrice": "59000",
+    "actualDate": "20221015",
+    "alpha": 21.149897330595483
+  },
+  {
+    "uuid": "0xDd833D0eEF6d5d7Cec781b03c19f3B425F3039Df",
+    "startPrice": "57000",
+    "startDate": "20210609",
+    "actualPrice": "69000",
+    "actualDate": "20221116",
+    "alpha": 21.052631578947366
+  },
+  {
+    "uuid": "0x5b690b010944bDfA8B26116967FE3fB3c38cFAaC",
+    "startPrice": "48000",
+    "startDate": "20210622",
+    "actualPrice": "58000",
+    "actualDate": "20221116",
+    "alpha": 20.833333333333336
+  },
+  {
+    "uuid": "0x78A9013B53d2d255935BbC43112d0dd3f475F3D3",
+    "startPrice": "53000",
+    "startDate": "20210625",
+    "actualPrice": "63000",
+    "actualDate": "20230627",
+    "alpha": 18.867924528301888
+  },
+  {
+    "uuid": "0x0954682ff1b512d3927d06c591942f50917e16a0",
+    "startPrice": "51500",
+    "startDate": "20210625",
+    "actualPrice": "62000",
+    "actualDate": "20230617",
+    "alpha": 20.388349514563107
+  },
+  {
+    "uuid": "0xcb061ae1f9b618c44ac10a47a672bf438da01fd8",
+    "startPrice": "77000",
+    "startDate": "20210625",
+    "actualPrice": "98000",
+    "actualDate": "20221116",
+    "alpha": 27.27272727272727
+  },
+  {
+    "uuid": "0x4471962eeffEC57A33fa4e0793EFEEC07684dFFB",
+    "startPrice": "52400",
+    "startDate": "20210702",
+    "actualPrice": "62000",
+    "actualDate": "20230615",
+    "alpha": 18.3206106870229
+  },
+  {
+    "uuid": "0x584967356bad1499c10a8695522983F2fB7d88F3",
+    "startPrice": "52000",
+    "startDate": "20210712",
+    "actualPrice": "62000",
+    "actualDate": "20221102",
+    "alpha": 19.230769230769234
+  },
+  {
+    "uuid": "0xcdf955df8a7ae1264f3b4f8ee5fa68507e8528aa",
+    "startPrice": "78500",
+    "startDate": "20210716",
+    "actualPrice": "96000",
+    "actualDate": "20240117",
+    "alpha": 22.29299363057325
+  },
+  {
+    "uuid": "0x394d59797495848934acf61e680c1739a2cd8cfd",
+    "startPrice": "74500",
+    "startDate": "20210716",
+    "actualPrice": "88600",
+    "actualDate": "20230517",
+    "alpha": 18.926174496644297
+  },
+  {
+    "uuid": "0x950bc24510274163aabf83339424e7b49bf6a0c0",
+    "startPrice": "70500",
+    "startDate": "20210716",
+    "actualPrice": "83000",
+    "actualDate": "20230218",
+    "alpha": 17.73049645390071
+  },
+  {
+    "uuid": "0x26ccc79ceeec918e01bbd5c04a64767919f9ec1a",
+    "startPrice": "71500",
+    "startDate": "20210716",
+    "actualPrice": "85000",
+    "actualDate": "20230517",
+    "alpha": 18.88111888111888
+  },
+  {
+    "uuid": "0xca4e38439D5D86554431E15ecEd03B8bcf2abDDd",
+    "startPrice": "42000",
+    "startDate": "20210723",
+    "actualPrice": "51000",
+    "actualDate": "20230218",
+    "alpha": 21.428571428571427
+  },
+  {
+    "uuid": "0x6Bd094E39d0B839689e2F900BFDd180b10df62d7",
+    "startPrice": "45000",
+    "startDate": "20210723",
+    "actualPrice": "53000",
+    "actualDate": "20230218",
+    "alpha": 17.77777777777778
+  },
+  {
+    "uuid": "0x81CEA1a7c83d5caeD483Dd4Da59bfE98f24Ef687",
+    "startPrice": "42500",
+    "startDate": "20210723",
+    "actualPrice": "51000",
+    "actualDate": "20230201",
+    "alpha": 20.0
+  },
+  {
+    "uuid": "0x328249eFca026aE8596E9AFE913C5F8775eF60AE",
+    "startPrice": "48800",
+    "startDate": "20210723",
+    "actualPrice": "58000",
+    "actualDate": "20230201",
+    "alpha": 18.852459016393443
+  },
+  {
+    "uuid": "0x46B00B4bF04c2c94aE67576004a3a247B9400ade",
+    "startPrice": "56150",
+    "startDate": "20210723",
+    "actualPrice": "67800",
+    "actualDate": "20230523",
+    "alpha": 20.7479964381122
+  },
+  {
+    "uuid": "0x10C2c7a5342988818eb6726faE369299d8FB6328",
+    "startPrice": "46900",
+    "startDate": "20210723",
+    "actualPrice": "56250",
+    "actualDate": "20230201",
+    "alpha": 19.936034115138593
+  },
+  {
+    "uuid": "0x0C12f2b2c3aD5150D344b6D3ABB901b4795D72d9",
+    "startPrice": "42000",
+    "startDate": "20210723",
+    "actualPrice": "50000",
+    "actualDate": "20230218",
+    "alpha": 19.047619047619047
+  },
+  {
+    "uuid": "0x8c3761C5d489eE5a5C30f874b5220C769a7C5a16",
+    "startPrice": "45250",
+    "startDate": "20210723",
+    "actualPrice": "62000",
+    "actualDate": "20230218",
+    "alpha": 37.01657458563536
+  },
+  {
+    "uuid": "0xD3f7130940c7746298D9778F79e7BBA4C552f176",
+    "startPrice": "49000",
+    "startDate": "20210723",
+    "actualPrice": "58000",
+    "actualDate": "20230218",
+    "alpha": 18.367346938775512
+  },
+  {
+    "uuid": "0xeF2B6234E376C3b152c5Febe47E1cA3C73cDAA9f",
+    "startPrice": "55800",
+    "startDate": "20210730",
+    "actualPrice": "66000",
+    "actualDate": "20230524",
+    "alpha": 18.27956989247312
+  },
+  {
+    "uuid": "0xA5c16ae5Fd75f4F079f3E33f0124899Bacf567f9",
+    "startPrice": "67800",
+    "startDate": "20210730",
+    "actualPrice": "90000",
+    "actualDate": "20230524",
+    "alpha": 32.743362831858406
+  },
+  {
+    "uuid": "0x1d5dA20522b1b94E3B7d983c954075Da429BBaE1",
+    "startPrice": "43000",
+    "startDate": "20210801",
+    "actualPrice": "51000",
+    "actualDate": "20230218",
+    "alpha": 18.6046511627907
+  },
+  {
+    "uuid": "0x23BB1314b73AaAa888800B177Ad5D9719a51195b",
+    "startPrice": "54000",
+    "startDate": "20210807",
+    "actualPrice": "73800",
+    "actualDate": "20230523",
+    "alpha": 36.666666666666664
+  },
+  {
+    "uuid": "0xC363eA8a468B3970Ef93140D5D4ad9D124178F6e",
+    "startPrice": "42000",
+    "startDate": "20210807",
+    "actualPrice": "50000",
+    "actualDate": "20230517",
+    "alpha": 19.047619047619047
+  },
+  {
+    "uuid": "0x7389Ef988Fae6b3bcf520000c535E1E2D94C5427",
+    "startPrice": "65000",
+    "startDate": "20210807",
+    "actualPrice": "77000",
+    "actualDate": "20230524",
+    "alpha": 18.461538461538463
+  },
+  {
+    "uuid": "0xD1095B31F41D3BDBb66A52B94a737b2D7Ac17635",
+    "startPrice": "42000",
+    "startDate": "20210819",
+    "actualPrice": "51000",
+    "actualDate": "20230201",
+    "alpha": 21.428571428571427
+  },
+  {
+    "uuid": "0x690602Eb0BF5607E3586F1d3e4C4601ef6E4A89F",
+    "startPrice": "45000",
+    "startDate": "20210903",
+    "actualPrice": "53000",
+    "actualDate": "20230517",
+    "alpha": 17.77777777777778
+  },
+  {
+    "uuid": "0x185e39d860cf86fbecf4a7c341bd1545ea3a41b9",
+    "startPrice": "44500",
+    "startDate": "20210903",
+    "actualPrice": "53000",
+    "actualDate": "20230517",
+    "alpha": 19.101123595505616
+  },
+  {
+    "uuid": "0x24A2558d0B0b2247A64eab7cf09d7244CB4c9597",
+    "startPrice": "46750",
+    "startDate": "20210903",
+    "actualPrice": "56000",
+    "actualDate": "20230517",
+    "alpha": 19.786096256684495
+  },
+  {
+    "uuid": "0xcD7DC5e034B631331Bc0cFC4EA71d2Dc7b53c338",
+    "startPrice": "153000",
+    "startDate": "20210903",
+    "actualPrice": "202000",
+    "actualDate": "20230615",
+    "alpha": 32.02614379084967
+  },
+  {
+    "uuid": "0x9D19B4d771ef67EA1dA64699A388133b44Eb434c",
+    "startPrice": "48000",
+    "startDate": "20210919",
+    "actualPrice": "58000",
+    "actualDate": "20230517",
+    "alpha": 20.833333333333336
+  },
+  {
+    "uuid": "0x79e18a519d60c2ef7e18aac08d60ba0d4eee2511",
+    "startPrice": "42000",
+    "startDate": "20211009",
+    "actualPrice": "50000",
+    "actualDate": "20230523",
+    "alpha": 19.047619047619047
+  },
+  {
+    "uuid": "0xe23a5fc3502976de653cb64e5c27dc01d700db36",
+    "startPrice": "57500",
+    "startDate": "20211016",
+    "actualPrice": "79000",
+    "actualDate": "20230517",
+    "alpha": 37.391304347826086
+  },
+  {
+    "uuid": "0x945d833927380e25f402350667c6cd2d2615e7c2",
+    "startPrice": "45000",
+    "startDate": "20211016",
+    "actualPrice": "53300",
+    "actualDate": "20230523",
+    "alpha": 18.444444444444443
+  },
+  {
+    "uuid": "0x96510c0bafc5b3305d2b468063f7b3f8e8389802",
+    "startPrice": "60000",
+    "startDate": "20211016",
+    "actualPrice": "71000",
+    "actualDate": "20230523",
+    "alpha": 18.333333333333332
+  },
+  {
+    "uuid": "0x062f0732a7daca652c3bd7d8ad51c3a920b25962",
+    "startPrice": "130000",
+    "startDate": "20211016",
+    "actualPrice": "157500",
+    "actualDate": "20230609",
+    "alpha": 21.153846153846153
+  },
+  {
+    "uuid": "0x5e29f1b62c15658e76671e199a7f16afddc9ad76",
+    "startPrice": "75000",
+    "startDate": "20211024",
+    "actualPrice": "89200",
+    "actualDate": "20230527",
+    "alpha": 18.933333333333334
+  },
+  {
+    "uuid": "0x529ff4d9b07acd6366d0c3eb077ebaa2b06e71c4",
+    "startPrice": "858000",
+    "startDate": "20211024",
+    "actualPrice": "850000",
+    "actualDate": "20211029",
+    "alpha": -0.9324009324009324
+  },
+  {
+    "uuid": "0x3D2129D9ceed93992CeA3Ee7D8E44754FaEDc922",
+    "startPrice": "55000",
+    "startDate": "20211110",
+    "actualPrice": "65000",
+    "actualDate": "20230523",
+    "alpha": 18.181818181818183
+  },
+  {
+    "uuid": "0x6133a54E3895F478ee6AaE582d7DBC7bBb086b7d",
+    "startPrice": "74000",
+    "startDate": "20211029",
+    "actualPrice": "102700",
+    "actualDate": "20230527",
+    "alpha": 38.78378378378378
+  },
+  {
+    "uuid": "0x934e4bed6f85295581697002fadd816b07c03406",
+    "startPrice": "48000",
+    "startDate": "20211111",
+    "actualPrice": "59000",
+    "actualDate": "20230627",
+    "alpha": 22.916666666666664
+  },
+  {
+    "uuid": "0x744Ca59499BE33F6A112Eed3ACCA533954dA1050",
+    "startPrice": "86000",
+    "startDate": "20211123",
+    "actualPrice": "110000",
+    "actualDate": "20230523",
+    "alpha": 27.906976744186046
+  },
+  {
+    "uuid": "0x009bAB289f104699AE87e576294D18eD505FAa61",
+    "startPrice": "46000",
+    "startDate": "20211229",
+    "actualPrice": "57000",
+    "actualDate": "20230627",
+    "alpha": 23.91304347826087
+  },
+  {
+    "uuid": "0x062c208073c9b439d1973262CFe0DDD88f38afa8",
+    "startPrice": "75000",
+    "startDate": "20220115",
+    "actualPrice": "108000",
+    "actualDate": "20230617",
+    "alpha": 44.0
+  },
+  {
+    "uuid": "0x2fB7eeEecE8498AF2bF5b00Ea29CA03005C35956",
+    "startPrice": "780000",
+    "startDate": "20220115",
+    "actualPrice": "915000",
+    "actualDate": "20230628",
+    "alpha": 17.307692307692307
+  },
+  {
+    "uuid": "0xEe2daCc1E9264cbCb19C46863373fbFf4Ba7a9Bd",
+    "startPrice": "119000",
+    "startDate": "20220323",
+    "actualPrice": "148200",
+    "actualDate": "20230805",
+    "alpha": 24.53781512605042
+  },
+  {
+    "uuid": "0x994C698175e5dBe405a46dF94FBD54999A3676c2",
+    "startPrice": "77500",
+    "startDate": "20220429",
+    "actualPrice": "97000",
+    "actualDate": "20230805",
+    "alpha": 25.161290322580644
+  },
+  {
+    "uuid": "0x65d81BF81a65b177012B323F14970071c5099226",
+    "startPrice": "76500",
+    "startDate": "20220429",
+    "actualPrice": "98000",
+    "actualDate": "20240129",
+    "alpha": 28.104575163398692
+  },
+  {
+    "uuid": "0xc8ED28cE508811216030B96e2Dc70883abAd5408",
+    "startPrice": "77000",
+    "startDate": "20220429",
+    "actualPrice": "95000",
+    "actualDate": "20230805",
+    "alpha": 23.376623376623375
+  },
+  {
+    "uuid": "0x2089b1b815A2FD0187a48a1C66C511DA828a8128",
+    "startPrice": "79000",
+    "startDate": "20220523",
+    "actualPrice": "107000",
+    "actualDate": "20231115",
+    "alpha": 35.44303797468354
+  },
+  {
+    "uuid": "0xef0c14c5d7da4d0447c28da7a9c8145d0a5a6f61",
+    "startPrice": "75000",
+    "startDate": "20220609",
+    "actualPrice": "110700",
+    "actualDate": "20231122",
+    "alpha": 47.599999999999994
+  },
+  {
+    "uuid": "0x75645f349DA40702710599ac41ADEF6e7e700DBE",
+    "startPrice": "75000",
+    "startDate": "20220609",
+    "actualPrice": "110700",
+    "actualDate": "20231122",
+    "alpha": 47.599999999999994
+  },
+  {
+    "uuid": "0x03CBe3DDa83908ad48643D6A1B5b13d11ACAF845",
+    "startPrice": "102500",
+    "startDate": "20220617",
+    "actualPrice": "128000",
+    "actualDate": "20231117",
+    "alpha": 24.878048780487806
+  },
+  {
+    "uuid": "0x4B293baA4703c5e7d480498BF3ccd8Dc3D1297Cd",
+    "startPrice": "55000",
+    "startDate": "20220708",
+    "actualPrice": "70000",
+    "actualDate": "20231026",
+    "alpha": 27.27272727272727
+  },
+  {
+    "uuid": "0xc6a9ad5f687b832636E8a946Be5F5F213Dd563fA",
+    "startPrice": "55000",
+    "startDate": "20220708",
+    "actualPrice": "70000",
+    "actualDate": "20231026",
+    "alpha": 27.27272727272727
+  },
+  {
+    "uuid": "0x3113bb5E8BF9Dc44EcDB111e5C4ab0818015a2E1",
+    "startPrice": "55500",
+    "startDate": "20220708",
+    "actualPrice": "69100",
+    "actualDate": "20231101",
+    "alpha": 24.504504504504503
+  },
+  {
+    "uuid": "0x6f5258fEB5862b661829315841b0718D6e56CA2c",
+    "startPrice": "55000",
+    "startDate": "20220728",
+    "actualPrice": "70500",
+    "actualDate": "20240123",
+    "alpha": 28.18181818181818
+  },
+  {
+    "uuid": "0xc1c1031e4A44B98707203480029e6576CB3267e3",
+    "startPrice": "55000",
+    "startDate": "20220804",
+    "actualPrice": "69000",
+    "actualDate": "20240109",
+    "alpha": 25.454545454545453
+  },
+  {
+    "uuid": "0x4b9C173c81EA2B6804b99ac91846c62bdB74Fe72",
+    "startPrice": "52500",
+    "startDate": "20220806",
+    "actualPrice": "64000",
+    "actualDate": "20231101",
+    "alpha": 21.904761904761905
+  },
+  {
+    "uuid": "0x91CEF0e64c0059AffF516418304761C772dDFeC8",
+    "startPrice": "52500",
+    "startDate": "20220806",
+    "actualPrice": "64000",
+    "actualDate": "20231101",
+    "alpha": 21.904761904761905
+  },
+  {
+    "uuid": "0x304Bee450c2D116696d8B442981e7a300dfdf1CB",
+    "startPrice": "55000",
+    "startDate": "20220806",
+    "actualPrice": "70000",
+    "actualDate": "20231026",
+    "alpha": 27.27272727272727
+  },
+  {
+    "uuid": "0xF63b6B88ccC49825dB9b2C6710a3B4513AdB58C3",
+    "startPrice": "55000",
+    "startDate": "20220806",
+    "actualPrice": "70000",
+    "actualDate": "20231026",
+    "alpha": 27.27272727272727
+  },
+  {
+    "uuid": "0x64d69276CC78aDbb6d5fEa95d3e6370b4844dC76",
+    "startPrice": "51000",
+    "startDate": "20220806",
+    "actualPrice": "66000",
+    "actualDate": "20231108",
+    "alpha": 29.411764705882355
+  },
+  {
+    "uuid": "0x61eE29983Da5D006a56b549e1543b8196dF159A5",
+    "startPrice": "51000",
+    "startDate": "20220806",
+    "actualPrice": "66000",
+    "actualDate": "20231108",
+    "alpha": 29.411764705882355
+  },
+  {
+    "uuid": "0x53ceBce6BD24f8e14da85bA0627A92336Bd4F515",
+    "startPrice": "52000",
+    "startDate": "20220829",
+    "actualPrice": "68900",
+    "actualDate": "20240109",
+    "alpha": 32.5
+  },
+  {
+    "uuid": "0xB80173756781960761AA59c9eEEBE191F049f4C8",
+    "startPrice": "50000",
+    "startDate": "20220916",
+    "actualPrice": "68000",
+    "actualDate": "20231026",
+    "alpha": 36.0
+  },
+  {
+    "uuid": "0x0fd357eA71AD533c6b8A62520321Ed286Ed9a0C2",
+    "startPrice": "51000",
+    "startDate": "20220829",
+    "actualPrice": "66000",
+    "actualDate": "20231101",
+    "alpha": 29.411764705882355
+  },
+  {
+    "uuid": "0x9d4cF0316442e23eAc10AAFE4423305685597F78",
+    "startPrice": "51000",
+    "startDate": "20220829",
+    "actualPrice": "66000",
+    "actualDate": "20231101",
+    "alpha": 29.411764705882355
+  },
+  {
+    "uuid": "0xa984E4C759bEA433BeF9239736d5f9a9af0e7389",
+    "startPrice": "50000",
+    "startDate": "20220829",
+    "actualPrice": "67000",
+    "actualDate": "20240122",
+    "alpha": 34.0
+  },
+  {
+    "uuid": "0xF549B95362e6062999bdfe6c61E75e4547B8116D",
+    "startPrice": "53000",
+    "startDate": "20220829",
+    "actualPrice": "65000",
+    "actualDate": "20231026",
+    "alpha": 22.641509433962266
+  },
+  {
+    "uuid": "0x9EeA197BF77Fd70F485F25E606b731ce3c510b2C",
+    "startPrice": "53000",
+    "startDate": "20220829",
+    "actualPrice": "65000",
+    "actualDate": "20231026",
+    "alpha": 22.641509433962266
+  },
+  {
+    "uuid": "0x034eCb6dc0608B73765f2965771A003D940eE8b2",
+    "startPrice": "50000",
+    "startDate": "20220829",
+    "actualPrice": "68500",
+    "actualDate": "20240123",
+    "alpha": 37.0
+  },
+  {
+    "uuid": "0xCAf963cD253CF81664ecBCAd71D043C47edF77FB",
+    "startPrice": "53500",
+    "startDate": "20220901",
+    "actualPrice": "65500",
+    "actualDate": "20240122",
+    "alpha": 22.429906542056074
+  },
+  {
+    "uuid": "0xf98Be7dDAB511622b5dE91039C48f1f2E37D0Bc1",
+    "startPrice": "51000",
+    "startDate": "20220829",
+    "actualPrice": "68000",
+    "actualDate": "20240122",
+    "alpha": 33.33333333333333
+  },
+  {
+    "uuid": "0x9Abff92Ddd896F3F7664ec232bb0A5dB027D6724",
+    "startPrice": "51000",
+    "startDate": "20220829",
+    "actualPrice": "68000",
+    "actualDate": "20240117",
+    "alpha": 33.33333333333333
+  },
+  {
+    "uuid": "0x7DFeee178FC1F929A88ad69E4e8D493600dD26D0",
+    "startPrice": "50000",
+    "startDate": "20220829",
+    "actualPrice": "68000",
+    "actualDate": "20240122",
+    "alpha": 36.0
+  },
+  {
+    "uuid": "0x219c820c2d25D8937601D8713235B556C4A37f62",
+    "startPrice": "52000",
+    "startDate": "20220829",
+    "actualPrice": "68000",
+    "actualDate": "20240122",
+    "alpha": 30.76923076923077
+  },
+  {
+    "uuid": "0xbb32dE53a057F29280aD889A92Fe99D69D470ef0",
+    "startPrice": "50000",
+    "startDate": "20220829",
+    "actualPrice": "67400",
+    "actualDate": "20240109",
+    "alpha": 34.8
+  },
+  {
+    "uuid": "0x3B22445411B429f665d12F7A55DD16DFac22C6aE",
+    "startPrice": "47500",
+    "startDate": "20220916",
+    "actualPrice": "71000",
+    "actualDate": "20240122",
+    "alpha": 49.473684210526315
+  },
+  {
+    "uuid": "0x7Ad92301442b73BED8d9696d704Ac24a0fEF3B69",
+    "startPrice": "61000",
+    "startDate": "20220916",
+    "actualPrice": "81300",
+    "actualDate": "20240129",
+    "alpha": 33.278688524590166
+  },
+  {
+    "uuid": "0x2F3640655D076b45d1fA10da0f6D880329c9d553",
+    "startPrice": "51000",
+    "startDate": "20220923",
+    "actualPrice": "69000",
+    "actualDate": "20240313",
+    "alpha": 35.294117647058826
+  },
+  {
+    "uuid": "0xDcfE90e59B574839E028EC28E78018B84B6FcdAb",
+    "startPrice": "68000",
+    "startDate": "20220923",
+    "actualPrice": "84000",
+    "actualDate": "20240122",
+    "alpha": 23.52941176470588
+  }
+]
